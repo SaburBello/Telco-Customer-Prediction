@@ -143,9 +143,6 @@ Here are the main insights from the analysis:
 
 5. **Security and Support Features**: Customers without tech support (83.4%) and online security (similar percentage) were much more likely to churn, suggesting these value-added services significantly improve retention.
 
-#![Customer Tenure Distribution](https://github.com/SaburBello/Telco-Customer-Prediction/edit/main/Customer%20tenure%20distribution_telco.png)
-#![Payment Method and Internet Service Churn Rates](https://github.com/SaburBello/Telco-Customer-Prediction/edit/main/Payment%20method%20and%20Internet%20service_telco.png)
-
 ## Video Presentation
 
 A video presentation explaining the project methodology, analysis process, and key findings is available [here](https://www.veed.io/view/d7b7f3f5-d0c6-40cc-9fa1-5872f62b6acb?panel=share&sharingWidget=true). The video provides a walkthrough of the project and demonstrates the practical applications of the insights gained.
