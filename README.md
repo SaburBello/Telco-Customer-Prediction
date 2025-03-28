@@ -163,10 +163,10 @@ Potential extensions for this project include:
 
 ## Contact
 
-- **Name**: [Sabur Bello]
-- **LinkedIn**: [www.linkedin.com/in/sabur-bello]
-- **Email**: [bellosabur@gmail.com]
-- **Portfolio**: [https://bit.ly/sabur-bello-data-analyst]
+- **Name**: Sabur Bello
+- **LinkedIn**: www.linkedin.com/in/sabur-bello
+- **Email**: bellosabur@gmail.com
+- **Portfolio**: https://bit.ly/sabur-bello-data-analyst
 
 ---
 
